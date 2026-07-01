@@ -1,2 +1,4 @@
 # CMU-AI-Engeenering-SKS
-khyathisree
+Devs:
+1. Siddharth
+2. khyathisree
